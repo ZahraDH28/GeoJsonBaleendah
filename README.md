@@ -1,5 +1,6 @@
 
 Penjelasan Data GeoJSON Jaringan Jalan Baleendah sampai Bojongsari(gak sengaja kebawa masuk)
+
 File GeoJSON export (1).geojson ini adalah dataset vektor geospasial yang merepresentasikan jaringan jalan yang diekstrak dari OpenStreetMap (OSM) melalui query overpass-turbo.
 
 Secara struktural, file ini menggunakan skema GeoJSON dengan objek utama FeatureCollection, yang berfungsi sebagai container untuk semua elemen jalan.
